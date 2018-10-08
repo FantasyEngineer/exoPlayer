@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.anbetter:MLog-1.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/MLog-1.1.0.aar/7bd5a05976031cb8c16402e72540810f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/MLog-1.1.0.aar/7bd5a05976031cb8c16402e72540810f/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.anbetter/MLog/1.1.0/ea96b0a45ea09a9abb1cf68ebb1772919d8457b4/MLog-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
